@@ -18,4 +18,3 @@ Design Principle
 Define a one-to-many dependency between objects so that when one object changes state, all its dependents are
 notified and updated automatically.
 
->>>>>>> 63f6103f9d0e6a7591c05ce7b1538ca3e20d3c33
